@@ -6,8 +6,8 @@ A react checklist app for keeping track of your tasks and provides reminders.
 
 
 
-![alt tag](https://user-images.githubusercontent.com/87396968/195724859-81515333-cfa6-4af6-8102-70e506e35f74.png)
-![alt tag](https://user-images.githubusercontent.com/87396968/195724868-7567d0af-31f8-4fa0-a3a9-d94310d60d3d.png)
+   <img src ="https://media.giphy.com/media/Vc6Pg0TjiUt1KC5tmY/giphy.gif" />
+
 
 ## How It's Made:
 
@@ -28,24 +28,24 @@ I learned that creating a successful project, isn't determined by it's complexit
   <tr>
     <td width="33.3%" valign="top">
     
-<a target="_blank" href="https://github.com/JustyMoy/HealthyCheatMealAPI"> Healthy Cheat Meals</a>
+<a target="_blank" href="https://github.com/JustyMoy/Polls_python">Custom Polls Generator</a>
         <br />
-      <a target="_blank" href="https://github.com/JustyMoy/HealthyCheatMealAPI">
-![alt tag](https://user-images.githubusercontent.com/87396968/179097309-b8ebcdb1-28db-4bfa-86d0-06d1e5b36bbd.png)
+      <a target="_blank" href="https://github.com/JustyMoy/Polls_python">
+<img src="https://media.giphy.com/media/4teasaWqojvThCycpC/giphy.gif" />
         </a>
     </td>
     <td width="33.3%" valign="top">
 <a target="_blank" href="https://github.com/JustyMoy/portfolioSalon"> Portfolio Website</a>
         <br />
       <a target="_blank" href="https://github.com/JustyMoy/PortfolioWebsite">
-![alt tag](https://user-images.githubusercontent.com/87396968/179094479-a3d272dc-7645-439c-aaab-b28f61a30670.png)
+   <img src="https://media.giphy.com/media/uCoD3fryp5dnLEn9hT/giphy.gif" />
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/JustyMoy/randomRecipeGenerator"> Randon Recipe Generator</a>
+<a target="_blank" href="https://github.com/JustyMoy/anabolicRecipeBlog">Anabolic Smorgasbord</a>
         <br />
-      <a target="_blank" href="https://github.com/JustyMoy/randomRecipeGenerator">
-![alt tag](https://user-images.githubusercontent.com/87396968/179095031-c2fe9829-1748-44c0-baa7-bcf55c3bd171.png)
+      <a target="_blank" href="https://github.com/JustyMoy/anabolicRecipeBlog">
+<img src="https://media.giphy.com/media/8kToMEoYx5hpX5lcY4/giphy.gif" />
         </a>
     </td>
   </tr>
