@@ -58,6 +58,8 @@ I learned that creating a successful project, isn't determined by it's complexit
 npm install
 
 # Serve on localhost:8500
+npm run server
+npm start
 
 
 
