@@ -1,5 +1,8 @@
+
 # Checklist
+
 A react checklist app for keeping track of your tasks and provides reminders.
+
 
 
 
@@ -7,6 +10,8 @@ A react checklist app for keeping track of your tasks and provides reminders.
 ![alt tag](https://user-images.githubusercontent.com/87396968/195724868-7567d0af-31f8-4fa0-a3a9-d94310d60d3d.png)
 
 ## How It's Made:
+
+
 
 ## Tech used: 
 
@@ -45,6 +50,15 @@ I learned that creating a successful project, isn't determined by it's complexit
     </td>
   </tr>
 </table>
+
+## Quick Start
+
+``` bash
+# Install dependencies
+npm install
+
+# Serve on localhost:8500
+
 
 
 
